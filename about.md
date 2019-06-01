@@ -1,18 +1,31 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
+bgimgurl: https://raw.githubusercontent.com/livebreeze/BlogImages/d795a35325249f42cdff8ea5434baa374b1756a6/Images2016/20160811_AboutMeBg.jpg
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, my name is Sean Chen.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Here is a place where I am writing and sharing about learning. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am a Web developer live in Taichung, Taiwan.
+
+Major in C#, javascript, and MS SQL technology. 
+
+Use the framework like ASP.NET MVC, jQuery, angular js, nodejs to develope EC web site. 
+
+For now, I want to learn more about code development, and share what I know.
+
+So, welcome to share the world with me!
+
+---
 
 
-[jekyll-organization]: https://github.com/jekyll
+Hi 大家好，
+
+我是阿興，目前在台中任職 Web Developer
+
+這邊紀錄一些學習過程，並且希望藉由分享，更進一步吸收所學，
+
+碼農們一起用力耕耘吧!
