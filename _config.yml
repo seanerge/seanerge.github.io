@@ -11,13 +11,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: seanerge
 github_username:  seanerge
-logo: ''
-favicon: ''
+logo: 'assets/images/sean-logo.jpg'
+favicon: 'assets/images/favicon.ico'
 paginate: 12
 
 # Build settings
 markdown: kramdown
 theme: minima
+name: livebreeze's blog
 
 # Authors
 authors:
